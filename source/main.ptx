@@ -12,15 +12,13 @@
   </docinfo>
 
   <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
+    <title>Idealized Science</title>
+    <subtitle>A Framework for Practicing Science Authentically</subtitle>
 
     <frontmatter xml:id="frontmatter">
       <titlepage>
         <author>
-          <personname>You</personname>
-          <department>Your department</department>
-          <institution>Your institution</institution>
+          <personname>Brian M. Wargo, PhD</personname>
         </author>
         <date>
           <today />
@@ -47,11 +45,33 @@
     </frontmatter>
 
     <chapter xml:id="chapter-title">
-      <title>Chapter title</title>
+      <title>Front Matter</title>
 
       <section xml:id="section-title">
-        <title>Section title</title>
-        <p>Hello</p>
+        <title>Preface</title>
+        <p>The book you are about to read has been a long time coming. I remember Mr. Wargo talking about this project before he defended his thesis and became Dr. Wargo. Growing up in Freedom, Pennsylvania, a rural town in which sports are held above most else, I had not ever interacted with someone like Wargo. Certainly, he was the first person I had ever met that was pursuing a doctorate. Not only a doctorate, but a doctorate specifically related to teaching physics as masterfully as possible. I did not even know, at the time, that this was something someone could do with their life. </p>
+        <p>When in his class, I suspected something remarkable was happening. It felt distinctly different from every other class I had ever taken. He did not just lecture <em>at</em> us, he explored <em>with</em> us. Because he was my first physics teacher, though, part of me wondered whether he was a masterful pedagogist or if my love of physics caused me to misinterpret highly interesting content as highly skillful presentation. After 7 more years studying physics, over 30 formal physics and math courses across many institutions, countless lectures and colloquia at universities, conferences, national labs, and companies in the US and abroad, I can confirm that it is the former: Dr. Wargo is a master of his craft.</p>
+        <p>I remember being excited to go to his class because it genuinely felt like we were discovering physical laws ourselves. Sure, within weeks of starting undergrad I realized that we were just re-discovering well known facts about nature, but that didn’t matter. The point of Dr. Wargo’s class, I have come to realize, was to allow students to be acting scientists. That is, to learn by trial, countless errors, and many gentle corrections what science is and what scientists do. This, I maintain, is far more important than any specific content that could be covered at the high school level and is the main subject of this book. </p>
+        <p>
+          Parts of the book may seem unrealistic. The thoughts “kids don’t really talk like that,” or “there is no way this actually happened,” may cross your mind; however, I assure you: kids from Freedom do talk like that and it did really happen.
+        </p>
+        <p>
+          As many high school physics teachers could attest, it is shocking how similar each year of students is to the year before it. Regardless of apparent intelligence level, we all begin our study of physics with multifarious misconceptions about the physical world. As such, high school physics education’s primary goal, it would seem, should be to arm students with the techniques needed to rectify misconceptions about the physical world. The goal should be to enable students to ask questions, make claims, test those claims through experiments they devise, and report the findings of those experiments in a clear and concise manner to their peers. That is, to act like a scientist. 
+        </p>
+        <p>
+          And yet, so many students come to hate physics because their introduction to it in high school revolves around rapid content coverage, rote memorization, and textbook problem solving to do well on some exam. There is plenty of this waiting for students at the undergraduate level. High school physics education should be about learning to question everything, giving students the time to make mistake after mistake while experimenting, helping students learn to support claims with evidence, and, perhaps most importantly, developing a natural distrust for anyone that attempts to supplant evidence with authority. This view, if widely adopted, would lead to a far more scientifically literate populace – a feat of unparalleled importance in a modern democracy. 
+        </p>
+        <p>
+          Sure, this all sounds great, but how does one actually make it happen? How, if one has never experienced this method of instruction, could one enact it? This book aims to address this concern by taking you through some of the core experiments all students engage with in Dr. Wargo’s classes. Highlighting pedagogical techniques, common misconceptions of students, and general philosophical asides along the way, the book provides a framework for authentic science practice in the classroom. 
+        </p>
+        <p>
+          As time has gone on, I have become increasingly grateful for the physics education I received at Freedom Area High School. There has not been a single friend or colleague in my life that I have not told about Dr. Wargo and what he is doing in a small school in Pennsylvania. Through countless discussions with people from all walks of life, I have realized just how rare the quality of his instruction is. As this opinion has been supported year after year, I have become increasingly eager for this book’s completion. As it sits before me, I hope more strongly than ever that it will be read broadly and will serve as a blueprint for improving high school physics education everywhere.
+        </p>
+
+        <p>
+          <alert>Jacob Beckey</alert>, Boulder, Colorado, July 2021
+        </p>
+        
       </section>
 
     </chapter>
